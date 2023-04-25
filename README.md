@@ -217,17 +217,17 @@ df5
 ### Data:
 ![Dataset1](https://user-images.githubusercontent.com/94525786/234186481-10e38d98-1ca0-451f-bf4a-2cb5c0db0159.png)
 
-### Ordinary Encoder-[col-[ord_1, ord_2]:
+### Ordinary Encoder :
 ![Ordinary encoder1](https://user-images.githubusercontent.com/94525786/234186560-0d4fc523-c871-4d78-98de-6980ba8f1914.png)
 
-### Binary Encoding-[Columns-bin_1, bin_2]:
+### Binary Encoding :
 ![Binary Encoder1](https://user-images.githubusercontent.com/94525786/234186602-56d494d7-d80a-488c-b180-60bb34246cea.png)
 
 ### One Hot Encoded Data:
 
 ![One Hot Encoding1](https://user-images.githubusercontent.com/94525786/234186843-695f45f9-d3d2-404b-a79e-98b9e8c01a90.png)
 
-### Standard Scalar
+### Standard Scalar:
 
 ![StandardScalar1](https://user-images.githubusercontent.com/94525786/234186873-4552304a-c6b6-4686-a0a9-f05e6fdc9f06.png)
 
@@ -241,3 +241,40 @@ df5
 
 ### Robust Scalar:
 ![RobustScalar1](https://user-images.githubusercontent.com/94525786/234187045-d496a9da-954c-4a9c-8b95-796003a44398.png)
+
+## Titanic.CSV :
+### Data:
+![Dataset2](https://user-images.githubusercontent.com/94525786/234296658-28c45104-e2a1-4a6c-80cf-f4799383ff32.png)
+
+
+### Ordinary Encoder :
+![Ordinary encoder2](https://user-images.githubusercontent.com/94525786/234296762-e949b7d1-2193-40ed-b5e0-97daa4121f8b.png)
+
+
+### Binary Encoding :
+![Binary2](https://user-images.githubusercontent.com/94525786/234296868-390cf580-3774-43f0-b604-89d358b6e32b.png)
+
+
+### One Hot Encoded Data:
+
+![One Hot Encoding1](https://user-images.githubusercontent.com/94525786/234296988-982682b7-95b6-4414-a836-c99949617d02.png)
+
+
+### Standard Scalar:
+
+![Standard Scalar](https://user-images.githubusercontent.com/94525786/234297098-64477d76-957a-4c90-9af7-99546047fc4f.png)
+
+
+### MaxAbs Scalar:  
+![Max Abs2](https://user-images.githubusercontent.com/94525786/234297803-a9f22371-7339-4ba7-92ad-032c3e3e479e.png)
+
+
+
+### MinMax Scalar:
+![MinMaxScalar2](https://user-images.githubusercontent.com/94525786/234297324-82aa0a5a-aa37-44e6-9334-1a89747e4feb.png)
+
+### Robust Scalar:
+
+
+## RESULT:
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
