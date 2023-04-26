@@ -274,6 +274,7 @@ df5
 ![MinMaxScalar2](https://user-images.githubusercontent.com/94525786/234297324-82aa0a5a-aa37-44e6-9334-1a89747e4feb.png)
 
 ### Robust Scalar:
+![Robust Scalar2](https://user-images.githubusercontent.com/94525786/234445669-558cea28-7873-4568-94b0-f9b353bb3c5a.png)
 
 
 ## RESULT:
